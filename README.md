@@ -2,7 +2,7 @@
 # Hi there, I'm Dina AbuQare! 👋  
 
 👩‍💻 Computer Science Student at Birzeit University | 🎓 Minoring in French
-🛠️ Qa Tester  
+🛠️ QA Tester 
 🌍 Trilingual: Fluent in English, Spanish, and Arabic
 
 I'm passionate about technology, software quality assurance, and continuous learning. Currently, I'm expanding my skills in QA testing and looking forward to making an impact in the tech world!  
